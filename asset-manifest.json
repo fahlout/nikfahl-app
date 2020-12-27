@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nikfahl-app/static/css/main.7c3c08b9.chunk.css",
+    "main.js": "/nikfahl-app/static/js/main.72d85ef4.chunk.js",
+    "main.js.map": "/nikfahl-app/static/js/main.72d85ef4.chunk.js.map",
+    "runtime-main.js": "/nikfahl-app/static/js/runtime-main.05b8eb43.js",
+    "runtime-main.js.map": "/nikfahl-app/static/js/runtime-main.05b8eb43.js.map",
+    "static/js/2.30ef5ed0.chunk.js": "/nikfahl-app/static/js/2.30ef5ed0.chunk.js",
+    "static/js/2.30ef5ed0.chunk.js.map": "/nikfahl-app/static/js/2.30ef5ed0.chunk.js.map",
+    "static/js/3.b4ad50d5.chunk.js": "/nikfahl-app/static/js/3.b4ad50d5.chunk.js",
+    "static/js/3.b4ad50d5.chunk.js.map": "/nikfahl-app/static/js/3.b4ad50d5.chunk.js.map",
+    "index.html": "/nikfahl-app/index.html",
+    "static/css/main.7c3c08b9.chunk.css.map": "/nikfahl-app/static/css/main.7c3c08b9.chunk.css.map",
+    "static/js/2.30ef5ed0.chunk.js.LICENSE.txt": "/nikfahl-app/static/js/2.30ef5ed0.chunk.js.LICENSE.txt",
+    "static/media/nik-profile-image.a0154761.jpg": "/nikfahl-app/static/media/nik-profile-image.a0154761.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05b8eb43.js",
+    "static/js/2.30ef5ed0.chunk.js",
+    "static/css/main.7c3c08b9.chunk.css",
+    "static/js/main.72d85ef4.chunk.js"
+  ]
+}
